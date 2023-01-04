@@ -5,5 +5,5 @@
 
 | Date     | Problem Solved |
 |----------|----------|
-| Jan 1-2    | (subarray.cpp)[https://github.com/gurdevil/2023/blob/main/geeksforgeeeks/subarray.cpp]  | 
+| Jan 1-2    | [subarray.cpp](https://github.com/gurdevil/2023/blob/main/geeksforgeeeks/subarray.cpp)  | 
 
